@@ -19,10 +19,9 @@ Right now I am consuming anything I can find on: <br>
 - Github Actions
 - DevOps
 
-Have a look at my Linkedin <br>
-➡ [Linkedin](https://www.linkedin.com/in/nelson-fleig/)
+Have a look at my [Linkedin](https://www.linkedin.com/in/nelson-fleig/).
 
-If you like stats <br>
+If you like stats: <br>
 
 ![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsonfleig&count_private=true&show_icons=true&theme=radical)
 

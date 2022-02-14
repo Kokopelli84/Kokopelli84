@@ -2,6 +2,8 @@
 
 Currently building multi-platform fullstack apps at [Artifice Software](https://artifice.com.bo).
 
+### Tech stack
+
 What I'm really enjoying now: <br>
 
 <code><img height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
@@ -15,25 +17,24 @@ What I'm really enjoying now: <br>
 <code><img height="40" alt="graphql" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png"></code>
 
 
+### What I'm up to 
 
 Right now I am consuming anything I can find on: <br>
 - Docker
 - Github Actions
 - DevOps
 
+### Where to find me
+
 Have a look at my [Linkedin](https://www.linkedin.com/in/nelson-fleig/).
 
-If you like stats: <br>
-
-![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=nelsonfleig&count_private=true&show_icons=true&theme=radical)
-
-## &#x1f4c8; GitHub Stats
+### If you like stats
 
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonfleig&count_private=true&show_icons=true&theme=radical&langs_count=3" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nelsonfleig&hide=java,html,tex&count_private=false&show_icons=true&theme=radical&langs_count=3" />
 </a>
 <a href="https://github.com/MartinHeinz/MartinHeinz">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nelsonfleig&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Nelson's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nelsonfleig&line_height=27&count_private=true&show_icons=true&theme=radical" alt="Nelson's GitHub Stats" />
 </a>
 
 

@@ -1,6 +1,6 @@
 👋 Hi! I'm a Software Developer based in Bolivia. I build things for the web and love the challenge of working with new tech.
 
-Currently building multi-platform fullstack apps at [Artifice Software](https://artifice.com.bo).
+Currently building multi-platform fullstack apps at [MVST.](https://mvst.co).
 
 ### Tech stack
 

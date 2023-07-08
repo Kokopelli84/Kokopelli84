@@ -1,4 +1,4 @@
-👋 Hi! I'm a Software Developer based in Bolivia. I build things for the web and love the challenge of working with new tech.
+👋 Hi! I'm a Software Developer based in Barcelona. I build things for the web and love the challenge of working with new tech.
 
 Currently building multi-platform fullstack apps at [MVST.](https://mvst.co).
 

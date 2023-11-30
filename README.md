@@ -18,10 +18,11 @@ What I'm really enjoying now: <br>
 
 ### What I'm up to 
 
-Right now I am consuming anything I can find on: <br>
-- Docker
-- Github Actions
-- DevOps
+When I'm not working, things I'm really enjoying now are: <br>
+- HTML Canvas
+- ProcessingJs
+- Dilligently working through [The Nature of Code](https://natureofcode.com/)
+- Creative coding
 
 ### Where to find me
 

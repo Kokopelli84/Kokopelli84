@@ -4,7 +4,7 @@ Currently building multi-platform fullstack apps at [MVST.](https://mvst.co).
 
 ### Tech stack
 
-What I'm really enjoying now: <br>
+There's a few more but the main ones are: <br>
 
 <code><img height="40" alt="Typescript" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="40" alt="React" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>

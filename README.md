@@ -21,10 +21,9 @@ There's a few more but the main ones are: <br>
 ### What I'm up to 
 
 When I'm not working, things I'm really enjoying now are: <br>
-- HTML Canvas
-- ProcessingJs
-- Dilligently working through [The Nature of Code](https://natureofcode.com/)
-- Creative coding
+- Neovim (btw)
+- Python and Django
+- Shell scripting
 
 ### Where to find me
 
